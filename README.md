@@ -101,6 +101,7 @@ Mục tiêu chính của dự án này là tối ưu hóa việc quản lý ngu�
 - **Nhận xét**: Tổng số tiền thanh toán thấp nhất trong Quý II cho thấy áp lực tài chính của ngân hàng giảm trong giai đoạn này. Điều này có thể liên quan đến việc ngân hàng đã thanh toán các khoản lớn trong Quý I, làm giảm nhu cầu thanh toán trong Quý II. Tuy nhiên, áp lực tài chính lại tăng lên trong nửa cuối năm do sự gia tăng vốn huy động mới và lượng vốn đến hạn cần tất toán. Đây có thể là dấu hiệu của việc ngân hàng đẩy mạnh chiến lược huy động vốn trong nửa sau của năm nhằm chuẩn bị cho các mục tiêu tài chính dài hạn.
 
 **Kết luận**:
+
 Qua phân tích, có thể thấy rằng tình hình thanh toán vốn huy động của ngân hàng trong nửa đầu năm 2024 đã có những biến động lớn. Số tiền thanh toán gốc và lãi có xu hướng giảm mạnh trong Quý II nhưng sau đó tăng trở lại vào các Quý tiếp theo. Điều này có thể cho thấy ngân hàng đang trong giai đoạn tái cơ cấu vốn huy động, với chiến lược quản lý dòng tiền chặt chẽ nhằm duy trì sự cân đối giữa dòng tiền vào và ra. Những biến động này cho thấy ngân hàng cần có những điều chỉnh linh hoạt để đảm bảo tính thanh khoản và tối ưu hóa chi phí vốn.
 
 ## BÀI TOÁN 3: Báo cáo phân loại theo giá trị tài khoản tiết kiệm
@@ -113,12 +114,12 @@ Qua phân tích, có thể thấy rằng tình hình thanh toán vốn huy độ
 | Từ 1 tỷ đến 10 tỷ | 13 | 48,550,000,000 |
 | Từ 10 tỷ đến 50 tỷ | 1 | 15,000,000,000 |
 
-- **Phân tích**:
+**Phân tích**:
 Dữ liệu phân loại tài khoản tiết kiệm theo giá trị cho thấy một xu hướng tập trung tài chính rõ ràng:
 + Tài khoản dưới 1 tỷ VND: Có 35 tài khoản, chiếm 71% tổng số tài khoản, nhưng chỉ đóng góp 13% vào tổng số tiền tiết kiệm (9.759 tỷ VND).
 + Tài khoản từ 1 đến 10 tỷ VND: Gồm 13 tài khoản (27% tổng số tài khoản), đóng góp 66% vào tổng số tiền tiết kiệm (48.550 tỷ VND).
 + Tài khoản từ 10 đến 50 tỷ VND: Chỉ có 1 tài khoản (chiếm 2%), nhưng nắm giữ tới 21% tổng số tiền tiết kiệm (15 tỷ VND).
-  **Insight**: Mặc dù phần lớn các tài khoản tiết kiệm có giá trị nhỏ dưới 1 tỷ VND, chúng đóng góp rất ít vào tổng số tiền tiết kiệm của ngân hàng. Trong khi đó, một lượng nhỏ tài khoản có giá trị lớn từ 1 tỷ đến 50 tỷ VND lại chiếm phần lớn tổng số tiền tiết kiệm. Điều này cho thấy sự tập trung tài sản cao trong một nhóm nhỏ khách hàng giàu có, trong khi phần lớn khách hàng chỉ nắm giữ các khoản tiết kiệm nhỏ lẻ. Đây là một tín hiệu quan trọng cho ngân hàng trong việc xác định chiến lược huy động vốn, khi các khách hàng lớn có thể đóng vai trò quan trọng trong việc ổn định nguồn vốn dài hạn.
+**Insight**: Mặc dù phần lớn các tài khoản tiết kiệm có giá trị nhỏ dưới 1 tỷ VND, chúng đóng góp rất ít vào tổng số tiền tiết kiệm của ngân hàng. Trong khi đó, một lượng nhỏ tài khoản có giá trị lớn từ 1 tỷ đến 50 tỷ VND lại chiếm phần lớn tổng số tiền tiết kiệm. Điều này cho thấy sự tập trung tài sản cao trong một nhóm nhỏ khách hàng giàu có, trong khi phần lớn khách hàng chỉ nắm giữ các khoản tiết kiệm nhỏ lẻ. Đây là một tín hiệu quan trọng cho ngân hàng trong việc xác định chiến lược huy động vốn, khi các khách hàng lớn có thể đóng vai trò quan trọng trong việc ổn định nguồn vốn dài hạn.
 
 ## 5. KẾT LUẬN
 
